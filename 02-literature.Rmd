@@ -1,3 +1,4 @@
-# Literature
+# Cambio historico, o cómo llegamos hsta aqui.
 
-Here is a review of existing methods.
+Dar cuenta de los importantes cambios historicos que hace posible la emergencia
+de las tecnologías.
