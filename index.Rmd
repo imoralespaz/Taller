@@ -1,0 +1,23 @@
+--- 
+title: "Taller de producción de contenidos digitales para el aprendizaje."
+author: "Ivan Morales Paz"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Taller en linea para el desarrollo de habilidades en la
+producción de contenidos digitales para el aprendizaje.
+El taller esta destinado a profesores de enseñanza básica."
+---
+
+# Requisitos para participar en el taller.
+
+Contar con correo electrónico, es ideal una cuenta en Gmail.
+Es necesario disponer de una conexión estable a Internet.
+Utilizaremos la plataforma Zoom, por lo mismo es recomendable utilizar 
+audifonos, con esto evitamos el ruido que produce el parlante.
+La duración de las 4 sesiones serán de una hora (60 minutos)
+Pruebe su conexión a Internet 5 minutos antes de iniciar la sesión.
+
