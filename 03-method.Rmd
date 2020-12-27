@@ -1,2 +1,2 @@
-#Metodología
-Haremos un repaso por la teoria del color, veemos aspectos de diseño.
+#Diseño, y principios CRAP
+Haremos un repaso por la teoría del color, veremos aspectos de diseño y recomendaciones para diseñar.
